@@ -2,8 +2,8 @@
     "name": "jquery-pimcore-toolbox",
     "version": "1.0.0",
     "description": "jQuery Extensions for the PIMCORE Toolbox",
-    "author": "Stefan Hagspiel <shagspiel@dachcom.ch> (http://www.dachcom.com)",
-    "license": "jquery-pimcore-toolbox",
+    "author": "Stefan Hagspiel <shagspiel@dachcom.ch> (https://www.dachcom.com)",
+    "license": "GPL-3.0-or-later",
     "main": "dist/jquery.tb.core.js",
     "peerDependencies": {
         "jquery": "1.9.1 - 3"
